@@ -4,3 +4,4 @@ basic work flow
 
 .git add
 .git commit
+.git remove
