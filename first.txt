@@ -1,3 +1,6 @@
 Git practice
 
 basic work flow
+
+.git add
+.git commit
